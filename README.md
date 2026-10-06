@@ -4,9 +4,8 @@
 I am an electrical engineering student at the University of Alberta with a deep passion for the mix of hardware and software. I enjoy building embedded systems, designing PCBs, experimenting with computer vision, and learning about robotics.
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="Handshake" width="25" height="25" /> Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akileashs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akileashs/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akileash.saravanan1@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://your-personal-website.com) -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akileash.saravanan1@gmail.com)
 
 ## 🧰 Tech Stack
 
