@@ -12,7 +12,7 @@
 
   <rect width="720" height="56" rx="12" fill="url(#deck)"/>
 
-  <text x="20" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="url(#amber)">CentreMass - decommissioned for hackathon</text>
+  <text x="20" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="url(#amber)">CentreMass - decommissioned the parts for hackathon</text>
 
   <!-- simple balancing robot (right), gently tilting -->
   <g transform="translate(640,4)">
