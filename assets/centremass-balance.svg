@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="56" viewBox="0 0 720 56">
+  <defs>
+    <linearGradient id="deck" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fef3c7"/>
+      <stop offset="100%" stop-color="#fde68a"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#78350f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="720" height="56" rx="12" fill="url(#deck)"/>
+
+  <text x="20" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="url(#amber)">CentreMass - decommissioned for hackathon</text>
+
+  <!-- simple balancing robot (right), gently tilting -->
+  <g transform="translate(640,4)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-6 36 48; 6 36 48; -6 36 48" dur="2.2s" repeatCount="indefinite"/>
+      <!-- wheels -->
+      <circle cx="14" cy="44" r="10" fill="#1c1917" stroke="#eab308" stroke-width="2"/>
+      <circle cx="58" cy="44" r="10" fill="#1c1917" stroke="#eab308" stroke-width="2"/>
+      <circle cx="14" cy="44" r="3" fill="#eab308"/>
+      <circle cx="58" cy="44" r="3" fill="#eab308"/>
+      <!-- motor blocks -->
+      <rect x="20" y="36" width="10" height="8" rx="1" fill="#ca8a04"/>
+      <rect x="42" y="36" width="10" height="8" rx="1" fill="#ca8a04"/>
+      <!-- lower deck + board -->
+      <rect x="18" y="28" width="36" height="8" rx="1" fill="#a8a29e" opacity="0.85"/>
+      <rect x="24" y="29" width="14" height="6" rx="1" fill="#2563eb"/>
+      <!-- standoffs -->
+      <line x1="22" y1="28" x2="22" y2="12" stroke="#d6d3d1" stroke-width="1.5"/>
+      <line x1="50" y1="28" x2="50" y2="12" stroke="#d6d3d1" stroke-width="1.5"/>
+      <line x1="28" y1="28" x2="28" y2="12" stroke="#d6d3d1" stroke-width="1"/>
+      <line x1="44" y1="28" x2="44" y2="12" stroke="#d6d3d1" stroke-width="1"/>
+      <!-- upper deck + batteries -->
+      <rect x="20" y="8" width="32" height="6" rx="1" fill="#a8a29e" opacity="0.9"/>
+      <rect x="24" y="14" width="8" height="10" rx="2" fill="#1d4ed8"/>
+      <rect x="40" y="14" width="8" height="10" rx="2" fill="#1d4ed8"/>
+      <!-- top mass box -->
+      <rect x="28" y="2" width="16" height="7" rx="1" fill="#e7e5e4" stroke="#78716c" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
