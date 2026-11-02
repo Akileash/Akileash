@@ -3,6 +3,8 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="High Voltage" width="25" height="25" /> About Me
 I am an electrical engineering student at the University of Alberta with a deep passion for the mix of hardware and software. I enjoy building embedded systems, designing PCBs, experimenting with computer vision, and learning about robotics.
 
+**Building**
+
 <img src="https://raw.githubusercontent.com/Akileash/Akileash/main/assets/arvp-underwater.svg" alt="ARVP underwater" width="720" height="56" />
 <br/>
 <img src="https://raw.githubusercontent.com/Akileash/Akileash/main/assets/centremass-balance.svg" alt="CentreMass balancing" width="720" height="56" />
