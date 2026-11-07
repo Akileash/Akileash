@@ -62,9 +62,9 @@
   <rect x="22" y="98" width="3" height="26" rx="1.5" fill="#e3b341" opacity="0.85"/>
   <text x="34" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="url(#amberInk)">CentreMass - decommissioned the parts for hackathon</text>
 
-  <g transform="translate(672,90) scale(0.92)">
+  <g transform="translate(672,78) scale(0.88)">
     <g>
-      <animateTransform attributeName="transform" type="rotate" values="-4 30 38; 4 30 38; -4 30 38" dur="2.3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="-3 30 30; 3 30 30; -3 30 30" dur="2.3s" repeatCount="indefinite"/>
       <circle cx="10" cy="36" r="7.5" fill="#0d1117" stroke="#e3b341" stroke-width="1.7"/>
       <circle cx="50" cy="36" r="7.5" fill="#0d1117" stroke="#e3b341" stroke-width="1.7"/>
       <circle cx="10" cy="36" r="2" fill="#e3b341"/>
